@@ -10,4 +10,7 @@ Hardware:
 Software: languages, libraries, simulation tools Design / Method Describe the design, diagrams, and method. 
 Link images: ../assets/project-slug/image.png
 
+Issues:
+
+
 
